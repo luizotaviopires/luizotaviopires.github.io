@@ -1,0 +1,59 @@
+body {
+  background: url("/imagens/forest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 90% 1%;
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: rgba(114, 80, 168, 0.609);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: -1px 1px 2px rgb(253, 252, 252);
+}
+hr {
+  width: 50%;
+  height: 15px;
+  background: orange;
+}
+
+.linha {
+  background: red;
+}
+
+p {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+#foto1 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.videozinho {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+a:visited {
+  color: purple;
+}
+.textorodape {
+  text-align: center;
+}

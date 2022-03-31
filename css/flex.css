@@ -1,0 +1,36 @@
+#c01 {
+  width: 600px;
+  background: #d3d3d3;
+  border: 1px solid black;
+  padding: 15px;
+  margin-bottom: 50px;
+  position: relative;
+  margin-top: 25px;
+}
+#c01 h2 {
+  border: 1px solid black;
+  text-align: center;
+  width: 200px;
+  background: #d3d3d3;
+  position: absolute;
+  top: -35px;
+  left: 20px;
+}
+
+#c02 {
+  width: 600px;
+  background: #d66161;
+  border: 1px solid rgb(216, 107, 107);
+  padding: 15px;
+  margin-bottom: -400px;
+  position: relative;
+}
+#c02 h2 {
+  border: 1px solid black;
+  text-align: center;
+  width: 200px;
+  background: #d3d3d3;
+  position: absolute;
+  top: -35px;
+  left: 20px;
+}
