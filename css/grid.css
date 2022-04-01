@@ -62,8 +62,8 @@ p {
 
 hr {
   width: 60%;
-  height: 10px;
-  background-color: goldenrod;
+  height: 30px;
+  background-color: rgb(202, 88, 183);
   border: none;
 }
 
