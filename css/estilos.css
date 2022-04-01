@@ -9,14 +9,14 @@ body {
 h1 {
   text-align: center;
   font-size: 60px;
-  color: rgba(114, 80, 168, 0.609);
+  color: orange;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-shadow: -1px 1px 2px rgb(253, 252, 252);
 }
 hr {
   width: 50%;
   height: 15px;
-  background: orange;
+  background: red;
 }
 
 .linha {
